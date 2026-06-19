@@ -9,7 +9,6 @@ This project aims to predict house prices using Machine Learning techniques. The
 - Outlier Detection using IQR Method
 - Feature Selection
 - Machine Learning Model Training
-- House Price Prediction
 
 ## Technologies Used
 - Python
